@@ -74,6 +74,7 @@ const Navbar = () => {
 
                     <>
                         <hr />
+                        {/* BURAYA COPY PASTE AT */}
                         <div className="menu">
                             <span>Test1</span>
                             <span>Test2</span>
@@ -82,6 +83,7 @@ const Navbar = () => {
                             <span>Test5</span>
                             <span>Test6</span>
                         </div>
+                        <hr />
                     </>
                 )
                 }
